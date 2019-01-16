@@ -11,7 +11,7 @@ class EmployeeTest
 
 		System.out.println("10 % raise on yearly salary:"+(yearlysalary+salaryraise));
 
-		Employee e2= new Employee("aarushi","dua",10000);
+		Employee e2= new Employee("Abhishek","Bhatia",10000);
 	
 	            e2.info();
 				e2.getMonthlySalary();
